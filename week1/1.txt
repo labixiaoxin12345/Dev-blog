@@ -1,4 +1,12 @@
-CA exercise: Make a recipe 
+CA exercise: 
+1. Make a recipe 
 
-What I learnt:
--   
+Learning Points
+- add <img src=""/>
+- create <p></p> to add a paragraph
+- <h1></h1> is to create header
+- <u></ul> is to create unordered list
+- <ol></ol> is to create ordered list
+- <li></li> is to add list contenets in <ul> or <ol>
+
+Preview of the website is attached in the same folder
