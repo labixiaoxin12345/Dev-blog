@@ -1,12 +1,15 @@
 CA exercise: 
 1. CA1 - Semantic exercise
 2. CA2 - Semantic exercise vr
+3. CA3 - Simplecss
 
 Learning Points
 - placing of ul, h1 and p elements
 - placing content between header and footer
 - placing nav (navigation)
 - making use of div to separate paragraph
+- explored css styling  for each header (h1, h2, h3)
+- adding properties for css styling like color and background-color in style.css
 
 Preview of the websites is attached in the same folder
 
