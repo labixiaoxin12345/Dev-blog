@@ -1,8 +1,12 @@
 CA exercise: 
-1. 
+1. aboutme
+2. forms
+3. flexboxes
 
 Learning Points
-- 
+- purpose of normalize.css is to reset css stylying
+- create a website as a form for user to input using form action,
+    input types like checkbox, text, button
 
 Preview of the website is attached in the same folder
 
