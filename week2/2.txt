@@ -1,8 +1,12 @@
 CA exercise: 
-1. 
+1. CA1 - Semantic exercise
+2. CA2 - Semantic exercise vr
 
 Learning Points
-- 
+- placing of ul, h1 and p elements
+- placing content between header and footer
+- placing nav (navigation)
+- making use of div to separate paragraph
 
-Preview of the website is attached in the same folder
+Preview of the websites is attached in the same folder
 
