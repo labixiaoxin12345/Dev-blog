@@ -1,8 +1,11 @@
 CA exercise: 
-1. 
+1. splitflex
+2. zindex 
 
 Learning Points
-- 
+- use of @media ()
+- use of split
+- use of relative position
 
 Preview of the website is attached in the same folder
 

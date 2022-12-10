@@ -1,8 +1,15 @@
 CA exercise: 
-1. 
+1. ca1
+2. ca4 - random user
+3. circles
+4. simple-jquery-demo 
+5. simple click
 
 Learning Points
-- 
+- jQuery to select div/class/id
+- displaying random user using api
+- hide() to hide selected div/class/id
+- changing css in jquery
 
-Preview of the websites is attached in the same folder
+Preview of the website is attached in the same folder
 

@@ -1,8 +1,17 @@
 CA exercise: 
-1. 
+1. 03_07
+2. 03_09
+3. 03_12
+4. 05_04
+5. 05_08
 
 Learning Points
-- 
+- Javascript:
+    - creating objects
+    - creating methods
+    - creating classess and objects
+    - cretaing methods in classess
+    - Displaying the class in website
 
 Preview of the website is attached in the same folder
 

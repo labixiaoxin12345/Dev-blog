@@ -1,8 +1,21 @@
 CA exercise: 
-1. 
+1. Function Objects
+2. Grocery
+3. Loops
+4. Print_Array
+5. Literal Objects
+6. If else statements
 
 Learning Points
-- 
+- creating my own function and class
+- document.getElementByClassName() to change css or something by class name
+- document.getElementByTagName() to change css or something by tag name
+- document.getElementById() to change css or something by id
+- using booleans true and false for if else statements
+- creating Objects
+- use for if else in for loop 
+- printing array 
 
-Preview of the website is attached in the same folder
+
+Preview of the websites is attached in the same folder
 
