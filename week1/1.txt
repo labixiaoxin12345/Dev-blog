@@ -9,4 +9,4 @@ Learning Points
 - <ol></ol> is to create ordered list
 - <li></li> is to add list contenets in <ul> or <ol>
 
-Preview of the website is attached in the same folder
+Preview of the website is attached in the same folder 
